@@ -8,5 +8,5 @@
 <p align="center">
  <img src=".github/preview.png" alt="Demonstração do Gráfico Interativo" widht="100%" />
 </p>
-<small> Gráfico Interativo sendo executado no Jupyter Notebook </small>
+<h3> Gráfico Interativo sendo executado no Jupyter Notebook </h3> </p>
 
